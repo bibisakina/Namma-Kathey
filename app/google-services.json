@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626703664150",
+    "project_id": "namma-kathey-5d5de",
+    "storage_bucket": "namma-kathey-5d5de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626703664150:android:0c3fa428a0e4d720572137",
+        "android_client_info": {
+          "package_name": "com.nammakathey.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe4UApUMbkZh16H63qtHH5pJsoYcSQzec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

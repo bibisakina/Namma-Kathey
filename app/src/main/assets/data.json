@@ -1,0 +1,18 @@
+{
+  "popular_districts": ["d1", "d2", "d3", "d5", "d8", "d22", "d25", "d29", "d13", "d18", "d11", "d21"],
+  "districts": [
+    { "id": "d1", "name": "Bagalkot", "nameKn": "ಬಾಗಲಕೋಟೆ", "image": "dist_bagalkot" },
+    { "id": "d2", "name": "Ballari", "nameKn": "ಬಳ್ಳಾರಿ", "image": "dist_ballari" },
+    { "id": "d3", "name": "Belagavi", "nameKn": "ಬೆಳಗಾವಿ", "image": "dist_belagavi" },
+    { "id": "d5", "name": "Bengaluru Urban", "nameKn": "ಬೆಂಗಳೂರು ನಗರ", "image": "dist_bangaluru" },
+    { "id": "d8", "name": "Chikkaballapur", "nameKn": "ಚಿಕ್ಕಬಳ್ಳಾಪುರ", "image": "dist_chikkaballapur" },
+    { "id": "d11", "name": "Dakshina Kannada", "nameKn": "ದಕ್ಷಿಣ ಕನ್ನಡ", "image": "dist_dakshina_kannada" },
+    { "id": "d13", "name": "Dharwad", "nameKn": "ಧಾರವಾಡ", "image": "dist_dharwad" },
+    { "id": "d18", "name": "Kodagu", "nameKn": "ಕೊಡಗು", "image": "dist_kodagu" },
+    { "id": "d21", "name": "Mandya", "nameKn": "ಮಂಡ್ಯ", "image": "dist_mandya" },
+    { "id": "d22", "name": "Mysuru", "nameKn": "ಮೈಸೂರು", "image": "dist_mysore" },
+    { "id": "d25", "name": "Shivamogga", "nameKn": "ಶಿವಮೊಗ್ಗ", "image": "dist_shivamogga" },
+    { "id": "d29", "name": "Vijayapura", "nameKn": "ವಿಜಯಪುರ", "image": "dist_vijaypura" }
+  ],
+  "heroes": []
+}

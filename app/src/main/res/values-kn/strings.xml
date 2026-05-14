@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಮ್ಮ ಕಥೆ</string>
+    <string name="tagline">ಕರ್ನಾಟಕದ ವೀರರ ಕಥೆಗಳು</string>
+    
+    <!-- Auth -->
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="register">ನೋಂದಾಯಿಸಿ</string>
+    <string name="email">ಇಮೇಲ್</string>
+    <string name="password">ಪಾಸ್ವರ್ಡ್</string>
+    <string name="forgot_password">ಪಾಸ್ವರ್ಡ್ ಮರೆತಿರಾ?</string>
+    <string name="dont_have_account">ಖಾತೆ ಇಲ್ಲವೇ? ನೋಂದಾಯಿಸಿ</string>
+    <string name="full_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="confirm_password">ಪಾಸ್ವರ್ಡ್ ದೃಢೀಕರಿಸಿ</string>
+    <string name="google_sign_in">ಗೂಗಲ್ ಮೂಲಕ ಸೈನ್ ಇನ್ ಮಾಡಿ</string>
+    <string name="already_have_account">ಈಗಾಗಲೇ ಖಾತೆ ಇದೆಯೇ? ಲಾಗಿನ್ ಮಾಡಿ</string>
+    
+    <!-- Bottom Nav -->
+    <string name="nav_home">ಮುಖಪುಟ</string>
+    <string name="nav_districts">ಜಿಲ್ಲೆಗಳು</string>
+    <string name="nav_quiz">ರಸಪ್ರಶ್ನೆ</string>
+    <string name="nav_badges">ಬ್ಯಾಡ್ಜ್‌ಗಳು</string>
+    <string name="nav_profile">ಪ್ರೊಫೈಲ್</string>
+    
+    <!-- Home -->
+    <string name="welcome">ಸ್ವಾಗತ</string>
+    <string name="search_hint">ವೀರರು ಅಥವಾ ಜಿಲ್ಲೆಗಳನ್ನು ಹುಡುಕಿ...</string>
+    <string name="hero_of_day">ಇಂದಿನ ವೀರ</string>
+    <string name="popular_districts">ಜನಪ್ರಿಯ ಜಿಲ್ಲೆಗಳು</string>
+    <string name="daily_quote">ದೈನಂದಿನ ಉಲ್ಲೇಖ</string>
+    <string name="heritage_score">ಪರಂಪರೆಯ ಅಂಕಗಳು</string>
+    <string name="badges_earned">ಗಳಿಸಿದ ಬ್ಯಾಡ್ಜ್‌ಗಳು</string>
+    <string name="total_score">ಒಟ್ಟು ಅಂಕಗಳು</string>
+    <string name="badges_title">ಬ್ಯಾಡ್ಜ್‌ಗಳು</string>
+    <string name="home_title">ಕರ್ನಾಟಕ ಪರಂಪರೆ ಅನ್ವೇಷಕ</string>
+    <string name="home_description">ಕರ್ನಾಟಕದ ಜಿಲ್ಲೆಗಳು, ವೀರರು, ಕವಿಗಳು ಮತ್ತು ಸಮಾಜ ಸುಧಾರಕರ ಮೂಲಕ ಅದರ ಶ್ರೀಮಂತ ಇತಿಹಾಸವನ್ನು ಅನ್ವೇಷಿಸಿ. ಅವರ ಕಥೆಗಳನ್ನು ಕಲಿಯಿರಿ, ನಿಮ್ಮ ಜ್ಞಾನವನ್ನು ಪರೀಕ್ಷಿಸಿ ಮತ್ತು ಬ್ಯಾಡ್ಜ್‌ಗಳನ್ನು ಗಳಿಸಿ.</string>
+
+    <!-- Districts -->
+    <string name="explore_districts">ಜಿಲ್ಲೆಗಳನ್ನು ಅನ್ವೇಷಿಸಿ</string>
+    <string name="district_image">ಜಿಲ್ಲೆಯ ಚಿತ್ರ</string>
+    <string name="popular_districts_title">ಜನಪ್ರಿಯ ಜಿಲ್ಲೆಗಳು</string>
+    <string name="featured_districts">ವಿಶೇಷ ಜಿಲ್ಲೆಗಳು</string>
+    <string name="heroes_title">ಈ ಜಿಲ್ಲೆಯ ವೀರರು</string>
+    <string name="no_heroes_found">ವೀರರ ಮಾಹಿತಿಯನ್ನು ಶೀಘ್ರದಲ್ಲೇ ಸೇರಿಸಲಾಗುವುದು.</string>
+
+    <!-- District Descriptions -->
+    <string name="desc_d1">ಬಾದಾಮಿ ಗುಹೆಗಳು ಮತ್ತು ಪ್ರಾಚೀನ ದೇವಾಲಯಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ</string>
+    <string name="desc_d2">ಕೋಟೆಗಳು ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯ ಚಳುವಳಿಯ ಇತಿಹಾಸಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ</string>
+    <string name="desc_d3">ಕರ್ನಾಟಕದ ಸಾಂಸ್ಕೃತಿಕ ಮತ್ತು ಐತಿಹಾಸಿಕ ಕೇಂದ್ರ</string>
+    <string name="desc_d5">ರಾಜಧಾನಿ ಮತ್ತು ಮಾಹಿತಿ ತಂತ್ರಜ್ಞಾನ ಕೇಂದ್ರ</string>
+    <string name="desc_d8">ನಂದಿ ಬೆಟ್ಟಗಳು ಮತ್ತು ಇತಿಹಾಸಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ</string>
+    <string name="desc_d22">ರಾಜ ಪರಂಪರೆ ಮತ್ತು ದಸರಾ ಹಬ್ಬಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ</string>
+    <string name="desc_d25">ನೈಸರ್ಗಿಕ ಸೌಂದರ್ಯ ಮತ್ತು ಐತಿಹಾಸಿಕ ಮಹತ್ವ</string>
+    <string name="desc_d29">ಗೋಲ್ ಗುಂಬಜ್‌ಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ</string>
+    <string name="desc_d13">ಶಿಕ್ಷಣ ಮತ್ತು ಸಾಹಿತ್ಯದ ಕೇಂದ್ರ</string>
+    <string name="desc_d18">ಶ್ರೀಮಂತ ಸಂಪ್ರದಾಯಗಳನ್ನು ಹೊಂದಿರುವ ಕಾಫಿ ನಾಡು</string>
+    <string name="desc_d11">ಕರಾವಳಿ ಸೌಂದರ್ಯ ಮತ್ತು ವೀರರ ಇತಿಹಾಸ</string>
+    <string name="desc_d21">ಸಕ್ಕರೆ ನಾಡು ಮತ್ತು ಶ್ರೀಮಂತ ಸಂಸ್ಕೃತಿ</string>
+    <string name="desc_default">%1$s ನ ಪರಂಪರೆಯನ್ನು ಅನ್ವೇಷಿಸಿ</string>
+
+    <!-- Hero Detail -->
+    <string name="title_biography">ಜೀವನಚರಿತ್ರೆ</string>
+    <string name="title_early_life">ಆರಂಭಿಕ ಜೀವನ</string>
+    <string name="title_importance">ಇತಿಹಾಸದಲ್ಲಿ ಮಹತ್ವ</string>
+    <string name="title_achievements">ಸಾಧನೆಗಳು</string>
+    <string name="title_contribution">ಕರ್ನಾಟಕ/ಭಾರತಕ್ಕೆ ಕೊಡುಗೆ</string>
+    <string name="title_interesting_fact">ಆಸಕ್ತಿದಾಯಕ ಸಂಗತಿ</string>
+    <string name="title_family">ಕುಟುಂಬ ಮಾಹಿತಿ</string>
+    <string name="title_quote">ಸ್ಫೂರ್ತಿದಾಯಕ ಉಲ್ಲೇಖ</string>
+    <string name="label_district">ಜಿಲ್ಲೆ: %1$s</string>
+    <string name="title_timeline">ಕಾಲಗಣನೆ</string>
+    <string name="title_fun_facts">ಮೋಜಿನ ಸಂಗತಿಗಳು</string>
+    <string name="btn_read_story">ಕಥೆ ಓದಿ</string>
+    <string name="btn_start_quiz">ರಸಪ್ರಶ್ನೆ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="info_coming_soon">ಮಾಹಿತಿ ಶೀಘ್ರದಲ್ಲೇ ಬರಲಿದೆ</string>
+    <string name="hero_image_desc">ವೀರನ ಚಿತ್ರ</string>
+    <string name="quote_format">\"%1$s\"</string>
+
+    <!-- Quiz -->
+    <string name="quiz_title">ರಸಪ್ರಶ್ನೆ</string>
+    <string name="quiz_progress_format">ಪ್ರಶ್ನೆ %1$d/%2$d</string>
+    <string name="quiz_completed">ರಸಪ್ರಶ್ನೆ ಪೂರ್ಣಗೊಂಡಿದೆ!</string>
+    <string name="score_format">ಅಂಕಗಳು: %1$d</string>
+    <string name="total_score_format">ಒಟ್ಟು ಅಂಕಗಳು: %1$d</string>
+    <string name="stats_format">ಸರಿ: %1$d\nತಪ್ಪು: %2$d</string>
+    <string name="new_badge_unlocked">ಹೊಸ ಬ್ಯಾಡ್ಜ್ ಅನ್ಲಾಕ್ ಆಗಿದೆ!</string>
+    <string name="btn_next">ಮುಂದೆ</string>
+    <string name="btn_finish">ಮುಕ್ತಾಯ</string>
+    <string name="btn_finish_quiz">ರಸಪ್ರಶ್ನೆ ಮುಗಿಸಿ</string>
+    <string name="no_quiz_available">ಈ ವೀರರ ಬಗ್ಗೆ ರಸಪ್ರಶ್ನೆ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="select_answer_toast">ದಯವಿಟ್ಟು ಉತ್ತರವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="error_fill_all_fields">ದಯವಿಟ್ಟು ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳನ್ನು ಸರಿಯಾಗಿ ಭರ್ತಿ ಮಾಡಿ</string>
+    <string name="error_field_required">ಈ ಕ್ಷೇತ್ರ ಅಗತ್ಯವಿದೆ</string>
+    <string name="error_password_mismatch">ಪಾಸ್ವರ್ಡ್ಗಳು ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ</string>
+    <string name="error_enter_email_password">ದಯವಿಟ್ಟು ಇಮೇಲ್ ಮತ್ತು ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="story_title_format">ಕಥೆ: %1$s</string>
+    <string name="error_tts_not_supported">ಟಿಟಿಎಸ್ ಭಾಷೆ ಬೆಂಬಲಿಸುವುದಿಲ್ಲ</string>
+    <string name="total_heritage_score">ಒಟ್ಟು ಪರಂಪರೆಯ ಅಂಕಗಳು</string>
+    <string name="quiz_instruction">ರಸಪ್ರಶ್ನೆ ತೆಗೆದುಕೊಳ್ಳಲು, ಯಾವುದೇ ಜಿಲ್ಲೆಯಿಂದ ವೀರರನ್ನು ಆಯ್ಕೆಮಾಡಿ ಮತ್ತು \'ರಸಪ್ರಶ್ನೆ ಪ್ರಾರಂಭಿಸಿ\' ಟ್ಯಾಪ್ ಮಾಡಿ!</string>
+
+    <!-- Badges -->
+    <string name="badge_1_name">ಆರಂಭಿಕ</string>
+    <string name="badge_1_desc">ಅಂಕಗಳು ೨೦+</string>
+    <string name="badge_2_name">ಕಲಿಕೆದಾರ</string>
+    <string name="badge_2_desc">ಅಂಕಗಳು ೪೦+</string>
+    <string name="badge_3_name">ಅನ್ವೇಷಕ</string>
+    <string name="badge_3_desc">ಅಂಕಗಳು ೬೦+</string>
+    <string name="badge_4_name">ಪರಂಪರೆಯ ತಾರೆ</string>
+    <string name="badge_4_desc">ಅಂಕಗಳು ೮೦+</string>
+    <string name="badge_5_name">ಕರ್ನಾಟಕದ ದಂತಕಥೆ</string>
+    <string name="badge_5_desc">ಅಂಕಗಳು ೧೦೦+</string>
+    <string name="btn_retry">ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="btn_back">ಹಿಂದೆ</string>
+    <string name="quiz_score_out_of">ಒಟ್ಟು ಅಂಕಗಳು: %1$d / 10</string>
+
+    <!-- Profile -->
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="choose_language">ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="english">English</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="title_prizes">ಪ್ರಶಸ್ತಿಗಳು ಮತ್ತು ಗೌರವಗಳು</string>
+    <string name="tts_error">ಈ ಸಾಧನದಲ್ಲಿ ಆಡಿಯೋ ರೀಡರ್ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="tts_stopped">ಆಡಿಯೋ ನಿಲ್ಲಿಸಲಾಗಿದೆ</string>
+</resources>

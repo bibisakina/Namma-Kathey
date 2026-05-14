@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma-Kathey</string>
+    <string name="tagline">Stories of Karnataka Heroes</string>
+    
+    <!-- Auth -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="google_sign_in">Sign in with Google</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    
+    <!-- Bottom Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_districts">Districts</string>
+    <string name="nav_quiz">Quiz</string>
+    <string name="nav_badges">Badges</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Home -->
+    <string name="welcome">Welcome</string>
+    <string name="search_hint">Search heroes or districts...</string>
+    <string name="hero_of_day">Hero of the Day</string>
+    <string name="popular_districts">Popular Districts</string>
+    <string name="daily_quote">Daily Quote</string>
+    <string name="heritage_score">Heritage Score</string>
+    <string name="badges_earned">Badges Earned</string>
+    <string name="total_score">Total Score</string>
+    <string name="badges_title">Badges</string>
+    <string name="home_title">Karnataka Heritage Explorer</string>
+    <string name="home_description">Discover the rich history of Karnataka through its districts, heroes, poets, and social reformers. Learn their stories, test your knowledge, and earn badges.</string>
+
+    <!-- Districts -->
+    <string name="explore_districts">Explore Districts</string>
+    <string name="district_image">District Image</string>
+    <string name="popular_districts_title">Popular Districts</string>
+    <string name="featured_districts">Featured Districts</string>
+    <string name="heroes_title">Heroes of this District</string>
+    <string name="no_heroes_found">Heroes will be added soon.</string>
+
+    <!-- District Descriptions -->
+    <string name="desc_d1">Known for Badami caves and ancient temples</string>
+    <string name="desc_d2">Famous for forts and freedom movement history</string>
+    <string name="desc_d3">Cultural and historical hub of Karnataka</string>
+    <string name="desc_d5">Capital city and IT hub</string>
+    <string name="desc_d8">Known for Nandi Hills and history</string>
+    <string name="desc_d22">Royal heritage and Dasara festival</string>
+    <string name="desc_d25">Natural beauty and historical importance</string>
+    <string name="desc_d29">Famous for Gol Gumbaz</string>
+    <string name="desc_d13">Center of education and literature</string>
+    <string name="desc_d18">Coffee land with rich traditions</string>
+    <string name="desc_d11">Coastal beauty and heroic history</string>
+    <string name="desc_d21">Land of sugar and rich culture</string>
+    <string name="desc_default">Explore the heritage of %1$s</string>
+
+    <!-- Hero Detail -->
+    <string name="title_biography">Biography</string>
+    <string name="title_early_life">Early Life</string>
+    <string name="title_importance">Importance in History</string>
+    <string name="title_achievements">Achievements</string>
+    <string name="title_contribution">Contribution</string>
+    <string name="title_interesting_fact">Interesting Fact</string>
+    <string name="title_family">Family Information</string>
+    <string name="title_quote">Inspirational Quote</string>
+    <string name="label_district">District: %1$s</string>
+    <string name="title_timeline">Timeline</string>
+    <string name="title_fun_facts">Fun Facts</string>
+    <string name="btn_read_story">Read Story</string>
+    <string name="btn_start_quiz">START QUIZ</string>
+    <string name="info_coming_soon">Information coming soon</string>
+    <string name="hero_image_desc">Image of the hero</string>
+    <string name="quote_format">\"%1$s\"</string>
+
+    <!-- Quiz -->
+    <string name="quiz_title">Quiz</string>
+    <string name="quiz_progress_format">Question %1$d/%2$d</string>
+    <string name="quiz_completed">Quiz Completed!</string>
+    <string name="score_format">Score: %1$d</string>
+    <string name="total_score_format">Total Score: %1$d</string>
+    <string name="stats_format">Correct: %1$d\nWrong: %2$d</string>
+    <string name="new_badge_unlocked">New Badge Unlocked!</string>
+    <string name="btn_next">NEXT</string>
+    <string name="btn_finish">FINISH</string>
+    <string name="btn_finish_quiz">FINISH QUIZ</string>
+    <string name="no_quiz_available">No quiz available for this hero</string>
+    <string name="select_answer_toast">Please select an answer</string>
+    <string name="error_fill_all_fields">Please fill all fields correctly</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_enter_email_password">Please enter email and password</string>
+    <string name="story_title_format">Story: %1$s</string>
+    <string name="error_tts_not_supported">TTS Language not supported</string>
+    <string name="total_heritage_score">Total Heritage Score</string>
+    <string name="quiz_instruction">To take a quiz, select a Hero from any District and tap \'START QUIZ\'!</string>
+
+    <!-- Badges -->
+    <string name="badge_1_name">Beginner</string>
+    <string name="badge_1_desc">Score 20+</string>
+    <string name="badge_2_name">Learner</string>
+    <string name="badge_2_desc">Score 40+</string>
+    <string name="badge_3_name">Explorer</string>
+    <string name="badge_3_desc">Score 60+</string>
+    <string name="badge_4_name">Heritage Star</string>
+    <string name="badge_4_desc">Score 80+</string>
+    <string name="badge_5_name">Karnataka Legend</string>
+    <string name="badge_5_desc">Score 100+</string>
+    <string name="btn_retry">RETRY</string>
+    <string name="btn_back">BACK</string>
+    <string name="quiz_score_out_of">Total Score: %1$d / 10</string>
+
+    <!-- Profile -->
+    <string name="logout">Logout</string>
+    <string name="language">Language</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="english">English</string>
+    <string name="kannada">ಕನ್ನಡ</string>
+    <string name="title_prizes">Prizes and Recognition</string>
+    <string name="tts_error">Audio reader is not available on this device</string>
+    <string name="tts_stopped">Audio stopped</string>
+</resources>
