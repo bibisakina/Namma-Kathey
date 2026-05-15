@@ -27,6 +27,14 @@ class LoginActivity : BaseActivity() {
         sessionManager = SessionManager(this)
         auth = FirebaseAuth.getInstance()
 
+        // Check if user is already logged in
+        if (auth.currentUser != null) {
+            val intent = Intent(this, MainActivity::class.java)
+            intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
+            startActivity(intent)
+            return
+        }
+
         binding.btnLogin.setOnClickListener {
             val email = binding.etEmail.text.toString().trim()
             val password = binding.etPassword.text.toString().trim()
