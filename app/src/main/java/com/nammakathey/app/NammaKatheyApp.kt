@@ -11,6 +11,7 @@ class NammaKatheyApp : Application() {
         FirebaseApp.initializeApp(this)
         
         // Enable offline persistence for Firestore
+        // This ensures the heritage data is accessible even in remote historical sites with poor connectivity
         val settings = FirebaseFirestoreSettings.Builder()
             .setPersistenceEnabled(true)
             .build()
