@@ -32,9 +32,8 @@ class MainViewModel(application: Application) : AndroidViewModel(application) {
     fun loadHomeData() {
         _popularDistricts.value = repository.getPopularDistricts()
         
-        // Check if Firestore is empty, if so, upload initial data (only once)
-        // For development purposes, we can trigger it once or assume it's there.
-        // viewModelScope.launch { firebaseManager.uploadInitialHeroes(HeroDataSource.heroes) }
+        // Update Firestore with the new simplified categories
+        viewModelScope.launch { firebaseManager.uploadInitialHeroes(HeroDataSource.heroes) }
     }
 
     fun loadAllDistricts() {
