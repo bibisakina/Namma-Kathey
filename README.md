@@ -8,11 +8,11 @@
 
 | Splash Screen | Login / Register | Home Dashboard |
 |---|---|---|
-| ![Splash](screenshots/home.png) | ![Auth](screenshots/profile.png) | ![Home](screenshots/home.png) |
+| ![](screenshots/splash.png) | ![](screenshots/auth.png) | ![](screenshots/home.png) |
 
 | District Explorer | Storybook View | Quiz & Badges |
 |---|---|---|
-| ![Districts](screenshots/districts.png) | ![Story](screenshots/districts.png) | ![Quiz](screenshots/quiz.png) |
+| ![](screenshots/districts.png) | ![](screenshots/story.png) | ![](screenshots/quiz.png) |
 
 > *Note: Screenshots represent the current state of the application.*
 
