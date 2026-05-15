@@ -8,13 +8,13 @@
 
 | Splash Screen | Login / Register | Home Dashboard |
 |---|---|---|
-| ![Splash](https://via.placeholder.com/200x400?text=Splash+Screen) | ![Auth](https://via.placeholder.com/200x400?text=Authentication) | ![Home](https://via.placeholder.com/200x400?text=Home+Screen) |
+| ![Splash](screenshots/home.png) | ![Auth](screenshots/profile.png) | ![Home](screenshots/home.png) |
 
 | District Explorer | Storybook View | Quiz & Badges |
 |---|---|---|
-| ![Districts](https://via.placeholder.com/200x400?text=Districts) | ![Story](https://via.placeholder.com/200x400?text=Storybook) | ![Quiz](https://via.placeholder.com/200x400?text=Quiz+System) |
+| ![Districts](screenshots/districts.png) | ![Story](screenshots/districts.png) | ![Quiz](screenshots/quiz.png) |
 
-> *Note: Replace placeholders with actual screenshots from the `screenshots/` directory.*
+> *Note: Screenshots represent the current state of the application.*
 
 ---
 
